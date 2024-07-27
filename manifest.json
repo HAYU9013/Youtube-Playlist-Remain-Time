@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Remain YT time",
+    "version": "1.0",
+    "description": "Calculate the remaining time of a youtube video list",
+    "content_scripts": [
+        {
+        "js": ["scripts/content.js"],
+        "matches": [
+            "https://www.youtube.com/*"
+
+        ]
+        }
+    ]
+}
