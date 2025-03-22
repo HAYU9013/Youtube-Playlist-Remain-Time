@@ -8,3 +8,5 @@ This is a chrome extension that shows the remaining time of a youtube playlist.
 5. Go to youtube and play a playlist
 6. Extension will show when will the video end next to the playlist title
 P.S. Sometime the extension will not work. Try reload the page.
+
+![image](https://github.com/user-attachments/assets/e0a50b53-6e5b-432f-a608-3f97d1cc3d5f)
